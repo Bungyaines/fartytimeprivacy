@@ -1,0 +1,2 @@
+# fartytimeprivacy
+FartytimePrivacyPolicy
